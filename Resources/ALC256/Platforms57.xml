@@ -169,11 +169,11 @@
 									<key>MuteInputAmp</key>
 									<true/>
 									<key>PublishMute</key>
-									<false/>
-									<key>PublishVolume</key>
-									<false/>
-									<key>VolumeInputAmp</key>
 									<true/>
+									<key>PublishVolume</key>
+									<true/>
+									<key>VolumeInputAmp</key>
+									<false/>
 								</dict>
 								<key>NodeID</key>
 								<integer>20</integer>
@@ -197,7 +197,7 @@
 										</dict>
 									</array>
 									<key>MuteInputAmp</key>
-									<false/>
+									<true/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
@@ -214,7 +214,7 @@
 								<key>Amp</key>
 								<dict>
 									<key>MuteInputAmp</key>
-									<false/>
+									<true/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
@@ -263,7 +263,7 @@
 								<key>Amp</key>
 								<dict>
 									<key>MuteInputAmp</key>
-									<true/>
+									<false/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
