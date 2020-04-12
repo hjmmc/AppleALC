@@ -1944,18 +1944,15 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
-					<string>Kk Realtek ALC256 (3246) for magicbook</string>
+					<string>Kk Realtek ALC256 (3246) for magicbook update by hjmmc</string>
 					<key>CodecID</key>
 					<integer>283902550</integer>
 					<key>ConfigData</key>
 					<data>
-					AScccAEnHQEBJx6mAScfkAE3HPABNx0AATce
-					AAE3H0ABRxzwAUcdAAFHHgABRx9AAYcc8AGH
-					HQABhx4AAYcfQAGXHDABlx0QAZceiwGXHwIB
-					pxzwAacdAAGnHgABpx9AAbccQAG3HQEBtx4Q
-					AbcfkAG3DAIB1xzwAdcdAAHXHgAB1x9AAecc
-					8AHnHQAB5x4AAecfQAIXHFACFx0QAhceKwIX
-					HwICFwwC
+					AZccMAGXHRABlx6LAZcfAgG3HEABtx0BAbce
+					GwG3H5ABtwwCAUccQQFHHQIBRx4bAUcfkAFH
+					DAICFxxQAhcdEAIXHisCFx8CAhcMAgEnHHAB
+					Jx0BAScepgEnH5A=
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
