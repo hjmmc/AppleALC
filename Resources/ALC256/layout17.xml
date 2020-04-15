@@ -651,7 +651,7 @@
 									<key>PortWidth</key>
 									<integer>1</integer>
 									<key>SourceFuncInstance</key>
-									<integer>10</integer>
+									<integer>27</integer>
 									<key>SourcePortIndex</key>
 									<integer>0</integer>
 								</dict>
@@ -662,7 +662,7 @@
 									<key>PortWidth</key>
 									<integer>1</integer>
 									<key>SourceFuncInstance</key>
-									<integer>10</integer>
+									<integer>27</integer>
 									<key>SourcePortIndex</key>
 									<integer>1</integer>
 								</dict>
@@ -673,7 +673,7 @@
 									<key>PortWidth</key>
 									<integer>1</integer>
 									<key>SourceFuncInstance</key>
-									<integer>9</integer>
+									<integer>20</integer>
 									<key>SourcePortIndex</key>
 									<integer>0</integer>
 								</dict>
@@ -684,7 +684,7 @@
 									<key>PortWidth</key>
 									<integer>1</integer>
 									<key>SourceFuncInstance</key>
-									<integer>9</integer>
+									<integer>20</integer>
 									<key>SourcePortIndex</key>
 									<integer>1</integer>
 								</dict>
